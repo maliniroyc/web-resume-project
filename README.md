@@ -13,3 +13,4 @@ HTML and CSS basics to showcase your skills on an online resume.
 
 ![1](https://github.com/user-attachments/assets/1ccee66b-8b00-4b47-b98c-764c2eac260f)
 
+repo:maliniroyc/web-resume-project language:HTML
